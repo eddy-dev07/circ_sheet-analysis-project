@@ -1,0 +1,366 @@
+
+--- Top 10 team matchups in ODIs ---
+       team1       team2       winner  matches
+   Australia     England    Australia       38
+   Australia New Zealand    Australia       37
+       India   Sri Lanka        India       37
+   Australia    Pakistan    Australia       36
+     England    Pakistan      England       35
+     England   Australia    Australia       34
+   Sri Lanka       India        India       33
+ New Zealand    Pakistan  New Zealand       32
+       India     England        India       31
+South Africa   Sri Lanka South Africa       29
+
+--- Number of matches played by each team (ODIs) ---
+                    team  matches
+                   India      326
+               Australia      324
+                 England      318
+                Pakistan      317
+               Sri Lanka      315
+                   India      300
+             West Indies      263
+            South Africa      259
+             New Zealand      252
+            South Africa      250
+               Australia      249
+                 England      244
+               Sri Lanka      242
+             New Zealand      233
+              Bangladesh      225
+             West Indies      211
+                Pakistan      183
+                Zimbabwe      151
+                Zimbabwe      148
+              Bangladesh      145
+                 Ireland      105
+                 Ireland       88
+                Scotland       66
+             Netherlands       61
+                Scotland       56
+    United Arab Emirates       55
+    United Arab Emirates       50
+                   Nepal       44
+             Netherlands       43
+United States of America       39
+        Papua New Guinea       37
+United States of America       37
+                    Oman       35
+                 Namibia       33
+                  Canada       32
+                 Namibia       31
+                   Nepal       28
+                    Oman       28
+        Papua New Guinea       27
+                  Canada       26
+                   Kenya       25
+                   Kenya       16
+               Hong Kong        9
+               Hong Kong        8
+                 Bermuda        7
+                Thailand        7
+               Africa XI        5
+                 Asia XI        5
+                 Bermuda        5
+            ICC World XI        2
+                  Jersey        2
+
+--- Teams with highest win counts (ODIs) ---
+      winner  wins
+   Australia   382
+       India   374
+     England   302
+South Africa   295
+   Sri Lanka   243
+ New Zealand   242
+    Pakistan   233
+ West Indies   171
+  Bangladesh   138
+    Zimbabwe    69
+
+--- Toss decisions in Tests ---
+toss_decision  times
+          bat    600
+        field    278
+
+--- Teams winning after winning toss (Tests) ---
+ toss_winner  wins_after_toss
+   Australia               72
+     England               64
+South Africa               56
+       India               52
+   Sri Lanka               43
+ New Zealand               31
+    Pakistan               29
+ West Indies               20
+  Bangladesh               15
+    Zimbabwe                2
+     Ireland                2
+
+--- Venues hosting most matches (ODIs) ---
+                                  venue  matches
+                     Harare Sports Club      122
+          Shere Bangla National Stadium       85
+    Dubai International Cricket Stadium       56
+ Rangiri Dambulla International Stadium       51
+                    R Premadasa Stadium       49
+                  Sydney Cricket Ground       48
+Pallekele International Cricket Stadium       42
+                        Kennington Oval       42
+                          County Ground       41
+               Melbourne Cricket Ground       40
+
+--- Venues hosting most matches (T20s) ---
+                                                  venue  matches
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)      101
+                    Dubai International Cricket Stadium       99
+          Gahanga International Cricket Stadium, Rwanda       88
+                            Bayuemas Oval, Kuala Lumpur       87
+          Gahanga International Cricket Stadium. Rwanda       77
+                                 Udayana Cricket Ground       66
+                                      Marsa Sports Club       63
+                                     Harare Sports Club       62
+          Botswana Cricket Association Oval 1, Gaborone       51
+      West End Park International Cricket Stadium, Doha       49
+
+--- Total matches per year (ODIs) ---
+year  matches
+2002        1
+2003      119
+2004       79
+2005       67
+2006      119
+2007      154
+2008      104
+2009      119
+2010      105
+2011      140
+2012       91
+2013      148
+2014      118
+2015      138
+2016      112
+2017      169
+2018      136
+2019      167
+2020       50
+2021      110
+2022      225
+2023      245
+2024      159
+2025      113
+
+--- Total matches per year (Tests) ---
+year  matches
+2001        1
+2002        2
+2003       21
+2004       17
+2005       21
+2006       40
+2007       30
+2008       44
+2009       42
+2010       43
+2011       40
+2012       42
+2013       45
+2014       42
+2015       44
+2016       47
+2017       48
+2018       47
+2019       37
+2020       22
+2021       44
+2022       45
+2023       36
+2024       53
+2025       25
+
+--- Teams with most losses (ODIs) ---
+                    team  losses
+               Sri Lanka     173
+                Pakistan     172
+             West Indies     164
+              Bangladesh     127
+                 England     126
+             New Zealand     119
+                Zimbabwe     113
+                   India     112
+             West Indies     111
+                   India     110
+            South Africa     108
+               Sri Lanka     108
+                 England     105
+                Zimbabwe     102
+             New Zealand      96
+               Australia      91
+              Bangladesh      91
+            South Africa      80
+                Pakistan      77
+               Australia      76
+                 Ireland      58
+                 Ireland      52
+             Netherlands      40
+    United Arab Emirates      35
+    United Arab Emirates      34
+        Papua New Guinea      30
+                Scotland      27
+             Netherlands      25
+United States of America      22
+        Papua New Guinea      21
+                  Canada      20
+                  Canada      18
+                 Namibia      17
+                   Nepal      17
+                   Kenya      16
+                   Nepal      16
+                    Oman      16
+United States of America      14
+                    Oman      12
+                   Kenya      10
+                 Bermuda       6
+               Hong Kong       6
+               Hong Kong       5
+                Thailand       5
+                 Bermuda       4
+               Africa XI       3
+            ICC World XI       2
+                  Jersey       2
+                 Asia XI       1
+                  Jersey       1
+                Thailand       1
+
+--- Top 5 winners in T20s ---
+     winner  wins
+      India   239
+    England   227
+  Australia   226
+   Pakistan   194
+New Zealand   183
+
+--- Frequency of toss winners (ODIs) ---
+             toss_winner  times
+                   India    298
+               Australia    296
+                 England    291
+               Sri Lanka    286
+            South Africa    254
+                Pakistan    248
+             New Zealand    242
+             West Indies    229
+              Bangladesh    179
+                Zimbabwe    159
+                 Ireland     97
+             Netherlands     57
+                Scotland     55
+    United Arab Emirates     51
+                 Namibia     40
+                   Nepal     39
+                    Oman     33
+United States of America     32
+                  Canada     31
+        Papua New Guinea     30
+                   Kenya     18
+               Hong Kong      7
+                Thailand      4
+                 Bermuda      4
+                 Asia XI      4
+                  Jersey      3
+               Africa XI      1
+
+--- Matches with no result (ODIs) ---
+ no_result_matches
+               147
+
+--- Matches with no result (T20s) ---
+ no_result_matches
+               129
+
+--- Teams winning after losing toss (ODIs) ---
+                   team1  wins_after_losing_toss
+               Australia                     124
+                   India                     101
+                 England                      93
+                   India                      86
+            South Africa                      82
+             New Zealand                      75
+               Australia                      73
+                Pakistan                      71
+            South Africa                      68
+               Sri Lanka                      66
+                 England                      54
+                Pakistan                      49
+               Sri Lanka                      49
+             West Indies                      47
+              Bangladesh                      43
+             New Zealand                      43
+             West Indies                      43
+              Bangladesh                      28
+                Zimbabwe                      24
+                Scotland                      21
+                 Ireland                      20
+United States of America                      15
+    United Arab Emirates                      12
+                 Ireland                      11
+             Netherlands                      11
+                Zimbabwe                      11
+                   Nepal                       9
+                    Oman                       9
+                Scotland                       8
+    United Arab Emirates                       8
+                  Canada                       7
+             Netherlands                       7
+United States of America                       7
+                 Namibia                       6
+                   Kenya                       5
+                   Nepal                       4
+                    Oman                       4
+        Papua New Guinea                       4
+                Thailand                       4
+                   Kenya                       3
+                 Namibia                       3
+        Papua New Guinea                       3
+                  Canada                       2
+               Hong Kong                       2
+                Thailand                       2
+               Africa XI                       1
+                 Bermuda                       1
+
+--- Most common toss decision (ODIs) ---
+toss_decision  times
+        field   1514
+          bat   1474
+
+--- Most common toss decision (T20s) ---
+toss_decision  times
+        field   2380
+          bat   2121
+
+--- Top winners in ODIs (proxy finals) ---
+      winner  titles
+   Australia     382
+       India     374
+     England     302
+South Africa     295
+   Sri Lanka     243
+
+--- Distribution of winners in Tests ---
+      winner  wins
+   Australia   129
+     England   120
+       India   106
+South Africa    97
+   Sri Lanka    67
+ New Zealand    64
+    Pakistan    55
+ West Indies    37
+  Bangladesh    21
+    Zimbabwe     5
+
+--- Toss decision vs. match wins (ODIs) ---
+toss_decision  wins
+          bat   675
+        field   746
