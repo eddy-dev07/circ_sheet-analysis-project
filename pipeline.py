@@ -42,4 +42,4 @@ for match_type, folder in folders.items():
     df.to_sql(f"{match_type}_matches", conn, if_exists="replace", index=False)
 
 conn.close()
-print("✅ All data saved to cricsheet.db")
+print(" All data saved to cricsheet.db")
